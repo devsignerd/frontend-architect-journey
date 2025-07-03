@@ -1,12 +1,8 @@
-# Fase 3: Especialización en Frontend Architecture
+# Fase 3: Frontend Architecture
 
-_Noviembre - Diciembre 2025 | 8 semanas_
+_Noviembre - Diciembre 2025_
 
-## ¿Qué contiene esta carpeta?
-
-La culminación del journey: aplicación práctica de todo lo aprendido en proyectos arquitectónicos reales.
-
-### Estructura de archivos:
+## Qué hay aquí
 
 - `microfrontends/` - Proof of concepts y documentación de microfrontends
 - `system-design/` - Diseños completos de arquitecturas frontend
@@ -14,30 +10,20 @@ La culminación del journey: aplicación práctica de todo lo aprendido en proye
 - `adrs/` - Architecture Decision Records
 - `presentation/` - Materiales para presentación final con mentor
 
-## Enfoque por mes:
-
-### Mes 5 (Noviembre): Microfrontends & System Design
+## Mes 5: Microfrontends & System Design
 
 - Module Federation strategies
 - Component library architecture
 - Cross-team collaboration patterns
 
-### Mes 6 (Diciembre): Portfolio & Leadership
+## Mes 6: Portfolio
 
-- Technical documentation mastery
-- Stakeholder communication
-- Final portfolio piece creation
+- ADRs documentation
+- Proyecto final completo
 
-## Entregables clave:
+## Entregables
 
 - [ ] Microfrontend proof of concept
 - [ ] Complete system architecture design
 - [ ] Architecture Decision Records portfolio
 - [ ] Technical presentation for mentor
-- [ ] Career transition strategy
-
-## Estado actual:
-
-⭐ **Status:** Meta final del journey
-🏆 **Objetivo:** Portfolio listo para Frontend Architect roles
-📈 **Preparación:** Fundada en Fases 1 y 2

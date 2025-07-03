@@ -1,37 +1,25 @@
 # Fase 2: Frontend Avanzado
 
-_Septiembre - Octubre 2025 | 8 semanas_
+_Septiembre - Octubre 2025_
 
-## ¿Qué contiene esta carpeta?
+## Qué hay aquí
 
-Documentación de mi profundización en skills avanzados de frontend y expansión técnica.
+- `performance/` - Optimizaciones de performance
+- `second-framework/` - Aprendizaje de Vue.js
+- `apis-integration/` - Proyectos GraphQL y REST
+- `projects/` - Código de proyectos de esta fase
+- `audits/` - Auditorías de performance
 
-### Estructura de archivos:
+## Mes 3: Performance & Optimización
 
-- `performance/` - Estudios y optimizaciones de performance
-- `second-framework/` - Aprendizaje de Vue.js (segundo framework)
-- `apis-integration/` - Proyectos y notas sobre GraphQL y REST avanzado
-- `projects/` - Código de proyectos prácticos de esta fase
-- `audits/` - Auditorías de performance realizadas
-
-## Enfoque por mes:
-
-### Mes 3 (Septiembre): Performance & Optimización
-
-- Core Web Vitals mastery
+- Core Web Vitals
 - Bundle analysis y code splitting
 - Caching strategies
 - Performance monitoring tools
 
-### Mes 4 (Octubre): Frameworks & APIs
+## Mes 4: Frameworks & APIs
 
-- Vue.js competency development
-- GraphQL advanced implementation
+- Vue.js competency
+- GraphQL avanzado
 - RESTful API design best practices
-- Scalable state management
-
-## Estado actual:
-
-🚀 **Status:** Pendiente (inicia después de Fase 1)
-🎯 **Meta:** Dominio técnico avanzado
-📊 **Progreso:** Esperando completar fundamentos
+- State management escalable

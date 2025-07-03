@@ -1,38 +1,16 @@
 # Weekly Logs
 
-_Registro semanal de progreso y reflexiones_
+_Progreso semanal del journey_
 
-## ¿Qué contiene esta carpeta?
+## Formato
 
-Documentación week-by-week de mi progreso, challenges, wins, y reflexiones durante todo el journey.
-
-### Formato de archivos:
-
-- `week-01.md` - Primera semana del journey
-- `week-02.md` - Segunda semana del journey
-- ...y así sucesivamente hasta `week-24.md`
+- `week-01.md` - Primera semana
+- `week-02.md` - Segunda semana
+- ...hasta `week-24.md`
 
 ## Template de weekly log:
 
-Cada archivo sigue la misma estructura para consistencia:
-
-- **Objetivos de la semana**
-- **Lo que logré**
-- **Challenges enfrentados**
-- **Insights/aprendizajes clave**
+- **Qué logré**
+- **Challenges**
+- **Key learnings**
 - **Next week goals**
-- **Mood/energy level**
-
-## ¿Cómo usar esta sección?
-
-- Escribir al final de cada semana (domingos)
-- Ser honesta sobre challenges y failures
-- Celebrar small wins
-- Identificar patterns en mi aprendizaje
-- Adjustar strategy basado en lo que funciona
-
-## Estado actual:
-
-📅 **Última entrada:** Pendiente (journey no iniciado)
-📝 **Total logs:** 0/24 semanas
-🎯 **Consistencia:** Meta de 100% completion

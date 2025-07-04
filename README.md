@@ -24,15 +24,12 @@ _Julio 2025 - Diciembre 2025_
 
 **Timeline:** 6 meses _(fechas aproximadas)_
 
-**Mentor:** Arquitecto de Soluciones de Software en AWS
-
 ---
 
 ## 📚 Recursos Principales
 
 - **Libro:** "The Software Architect Elevator" by Gregor Hohpe
 - **Roadmap:** roadmap.sh Software Architect path
-- **Mentor:** Check-ins regulares con arquitecto de AWS
 
 ---
 
